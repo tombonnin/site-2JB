@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://societe2jbf.fr/sitemap.xml
